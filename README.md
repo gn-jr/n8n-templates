@@ -18,12 +18,3 @@ This project started as part of my hands-on learning in automation, API integrat
 
 ---
 
-## 📁 Folder Structure
-
-```bash
-n8n-workflows/
-├── workflows/       # JSON export of workflows
-├── docs/            # Optional documentation or setup notes
-├── assets/          # Images or supporting files
-└── README.md        # You're here!
-
